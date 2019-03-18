@@ -3,10 +3,10 @@ Face Recognition System, developed in MATLAB, to detect and recognize faces base
 
 ***important instructions:
 
-1) Before running this code, copy all the folders from "Training_dataset" and place/paste them alongwith the code files.(otherwise, this will not work!!)
+1) Before running this code, Unzip "Training_dataset". Then, copy all the folders from unzipped "Training_dataset" and place/paste them alongwith the code files.(otherwise, this will not work!!)
 2) Now Run the Code i.e. gui file with MATLAB
 3) Press button "UPLOAD IMAGE"
-4) Select any image from "Test_dataset_1" (for high accuracy)
+4) Unzip "Test_dataset_1" and then Select any image from "Test_dataset_1" (for high accuracy)
 5) Press button "PREPROCESSING" (Do not check "Face Detect" checkbox!!)
 6) Press button "START SEARCH"
 
