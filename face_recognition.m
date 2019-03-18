@@ -10,7 +10,7 @@ signature=20;
 
 % Subtracting the mean from v
 O=uint8(ones(1,size(trainData,2))); 
-m=uint8(mean(trainData,2));                 % m is the maen of all images.
+m=uint8(mean(trainData,2));                 % m is the mean of all images.
 trainDataWithoutMean=trainData-uint8(single(m)*single(O)); 
 
 % eignevectors 
